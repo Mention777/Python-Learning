@@ -22,7 +22,7 @@ def 函数名称(参数列表):</br>
 
 ----------------</br>
 def printf (code):</br>
-    print (code)</br>
+  print (code)</br>
 
 print (printf(3))</br>
 ----------------</br>
