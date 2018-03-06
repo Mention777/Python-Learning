@@ -7,7 +7,7 @@
 ![1-1](Snip20180302_25.png)</br>
 ￼　2)类中可以定义数据成员和方法</br>
 　3)实例化方式:变量名 = 类名()</br>
-　　`student = Student()`
+　　`student = Student()`</br>
 　　`student.print_file()//调用类中方法`
   
 　4)类中方法,在参数位置需要加上self,若需要在方法中使用类中定义的其他变量,需要使用self.变量名的方式</br>
