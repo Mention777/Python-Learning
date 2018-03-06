@@ -7,7 +7,7 @@
 ![1-1](Snip20180302_25.png)</br>
 ￼2)类中可以定义数据成员和方法</br>
 3)实例化方式:变量名 = 类名()</br>
-　　```
+　　```py
 　　student = Student()
 　　student.print_file()//调用类中方法
   　```
