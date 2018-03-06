@@ -26,13 +26,13 @@ round函数:保留一个数字小数点多少位,后续四舍五入</br>
 ![1-1](Snip20180301_7.png)
 
 ```
-def printf (code):</br>
-    print (code)</br>
+def printf (code):
+    print (code)
 
-print (printf(3))</br>
+print (printf(3))
 ```
-结果为:3</br>
-	   None
+`结果为:3
+　　　None`
 
 原因是:一开始执行上面的print,打印3,后由于函数定义并无返回值,故打印为None
 
