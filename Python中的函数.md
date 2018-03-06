@@ -25,12 +25,12 @@ round函数:保留一个数字小数点多少位,后续四舍五入</br>
 设置最大递归的次数</br>
 ![1-1](Snip20180301_7.png)
 
-----------------</br>
+```
 def printf (code):</br>
     print (code)</br>
 
 print (printf(3))</br>
-----------------</br>
+```
 结果为:3</br>
 	   None
 
