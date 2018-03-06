@@ -9,7 +9,7 @@
 ￼
 2)类中可以定义数据成员和方法</br>
 3)实例化方式:变量名 = 类名()</br>
-&nbsp&nbsp&nbsp&nbsp如上:student = Student()</br>
+&ensp&ensp&ensp&ensp如上:student = Student()</br>
 &nbsp&nbsp&nbsp&nbsp调用类中方法,student.print_file()</br>
 4)类中方法,在参数位置需要加上self,若需要在方法中使用类中定义的其他变量,需要使用self.变量名的方式</br>
 5)类最基本的作用:封装</br>
