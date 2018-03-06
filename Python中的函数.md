@@ -31,8 +31,8 @@ def printf (code):
 
 print (printf(3))
 ```
-`结果为:3</br>
-　　　None`
+`结果为:3`
+　　　　`None`
 
 原因是:一开始执行上面的print,打印3,后由于函数定义并无返回值,故打印为None
 
