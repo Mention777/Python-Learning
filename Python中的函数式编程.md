@@ -7,11 +7,12 @@ Python中的函数式编程
 　　def add(x,y):
 　　return x+y
 ```
-调用:`add(1,2)`
+　　调用:`add(1,2)`
 
-匿名函数:(后边的表达式只能是简单的表达式,且只能是表达式,且不需要return语句),也有其他称之为`lambda表达式`</br>
+匿名函数:
+　　(后边的表达式只能是简单的表达式,且只能是表达式,且不需要return语句),也有其他称之为`lambda表达式`</br>
 `lambda x,y: x+y`</br>
-调用:`f = lambda x,y: x+y`</br>
+　　调用:`f = lambda x,y: x+y`</br>
 　　　`f(1,2)`
 
 三元表达式:</br>
