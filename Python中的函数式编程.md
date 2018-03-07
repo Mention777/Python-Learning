@@ -3,8 +3,9 @@
 Python中的函数式编程
 
 函数的基本定义方式:</br>
-```def add(x,y):
-    return x+y
+```
+　　def add(x,y):
+　　return x+y
 ```
 调用:`add(1,2)`
 
