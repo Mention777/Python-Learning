@@ -9,5 +9,5 @@
 * [Python中的函数](Python中的函数.md)
 * [Python的面向对象](python的面向对象.md)
 * [Python中的正则表达式及JSON](Python中的正则表达式及JSON.md)
-* Python中的枚举及闭包
+* [Python中的枚举及闭包](Python中的枚举及闭包.md)
 
