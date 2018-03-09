@@ -11,4 +11,5 @@
 * [Python中的正则表达式及JSON](Python中的正则表达式及JSON.md)
 * [Python中的枚举及闭包](Python中的枚举及闭包.md)
 * [Python中的函数式编程](Python中的函数式编程.md)
+* Pythonic与Python杂记
 
